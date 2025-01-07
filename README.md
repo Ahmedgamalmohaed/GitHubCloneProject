@@ -1,1 +1,1 @@
-feature.txt, README.md
+greetings.txt, README.md
