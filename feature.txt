@@ -2,4 +2,4 @@ feature-greeting.
 This is a new feature.
 This is a new feature.
 Feature-Branch-Creation.
-this us a new feature.
+this is a new feature.
