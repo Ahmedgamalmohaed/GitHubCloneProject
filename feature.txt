@@ -1,5 +1,5 @@
 This is a new feature.
-feature-greeting
+feature-greeting.
 This is a new feature.
 This is a new feature.
-Feature-Branch-Creation
+Feature-Branch-Creation.
