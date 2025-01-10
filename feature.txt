@@ -1,4 +1,4 @@
-feature-greeting.
 This is a new feature.
+Feature-Greeting: Describe the feature in detail.
+Feature-Branch-Creation: Describe what this feature does.
 This is a new feature.
-Feature-Branch-Creation.
