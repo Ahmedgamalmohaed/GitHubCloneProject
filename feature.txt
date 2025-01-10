@@ -1,7 +1,7 @@
-feature-greeting. 
+Feature-greeting. 
 this is a new feature.
 Feature-Branch-Creation
-feature-greeting.
+Feature-greeting.
 This is a new feature.
 This is a new feature.
 Feature-Branch-Creation.
