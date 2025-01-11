@@ -1,11 +1,11 @@
 feature-greeting-1
-Feature-Branch-Creation
+Feature-Branch-Creation.
 feature-greeting.
 feature-greeting.     
-Feature-Branch-Creation
+Feature-Branch-Creation.
 this is a new feature.
 Feature-Branch-Creation
-feature-greeting
+feature-greeting.
 feature-greeting.
 This is a new feature.
 Feature-Branch-Creation.
