@@ -1,5 +1,5 @@
 git checkout -b feature-greeting
-This is a new feature.
+This a new feature
 git add feature.txt
 git commit -m "Add feature description"
 git checkout main
